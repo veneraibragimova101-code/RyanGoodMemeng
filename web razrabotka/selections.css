@@ -1,0 +1,33 @@
+h1{color:rgb(255, 0, 0)}
+.container {
+   padding: 20px;
+   border: 1px solid rgb(0, 255, 242);
+}
+
+.Herohunter {
+   color: rgb(251, 255, 0);
+   font-weight: bold;
+}
+
+#Herokiller {
+   background-color: rgb(255, 0, 0);
+   text-align: center;
+}
+
+
+#androhackDance {
+   background-color: aquamarine;
+   font-size: 32px;
+   color: rgb(0, 255, 64);
+}
+
+.androhackMaiddance {
+   background-color: rgb(0, 255, 255);
+   font-size: 64px;
+   color:rgb(255, 140, 0)
+}
+div{
+   background-color: blue;
+   font-size: 72px;
+   color:brown
+}
