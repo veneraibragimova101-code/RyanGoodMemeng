@@ -1,0 +1,37 @@
+img{
+width: 600px;
+height: 600px;
+display: block;   
+}
+div{
+display: inline;
+}
+p{
+block-size: 100cqb;
+}
+
+.kikibonia{
+display: inline;    
+}
+.container{
+display: block;
+width: 100%;
+}
+.glu{
+display: block;
+width: 100px;
+height: 500px;
+margin: auto;
+}
+.maxumpcyancy{
+display: block;
+width: 1000px;
+height: 500px;
+margin: auto;
+}
+.lkjhgfds{
+display: block;
+width: 100px;
+height: 500px;
+margin: auto;
+}
