@@ -1,0 +1,27 @@
+.tota:focus{
+border: 10px; color: rgb(255, 140, 0) solid;
+}
+.kai:hover{
+background-color: blue; 
+}
+.totua:first-child{
+color: brown;
+}
+.totua:last-child{
+background-color: aqua;
+}
+
+.skiy:focus{
+background-color: black;
+}
+
+.bosnov:first-child{
+color: violet;
+}
+.bosnov:last-child{
+color: rgb(255, 0, 21);
+}
+
+a:hover{
+color: red;
+}
