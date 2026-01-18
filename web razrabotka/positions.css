@@ -1,0 +1,38 @@
+.welcome{
+position: sticky;
+top: 2px;
+margin-top: 20px;
+margin-bottom: 100px;
+font-weight: 900;
+}
+
+.welci{ margin-top: 500px;
+position: static; margin-bottom: 500px;
+bottom: 4px;
+font-weight: 900;
+}
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.qwerty{
+position: relative;
+top: 40px;
+left: 40px;
+background-color: goldenrod;
+width: fit-content;
+}
+
+.tyuiop{
+position:absolute;
+top: 600px;
+left: 600px;
+background-color: blue;
+width:fit-content
+}
+
+.nagger{
+position:fixed;
+bottom:600px;
+right:600px;
+}

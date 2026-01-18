@@ -25,3 +25,16 @@ color: rgb(255, 0, 21);
 a:hover{
 color: red;
 }
+.Minichursey:first-child:hover{
+color: blueviolet;
+}
+.Minichursey:last-child:hover{
+background-color:aquamarine;
+}
+
+.Minichursey:first-child:focus{
+color: rgb(43, 226, 73);
+}
+.Minichursey:nth-child(even):active{
+color:red;
+}
