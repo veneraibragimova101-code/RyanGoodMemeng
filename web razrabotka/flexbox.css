@@ -1,0 +1,101 @@
+.make{
+display: block;
+}
+
+.gwapo{
+display:inline;
+}
+
+.sapo{
+display:flex;
+}
+
+
+.Garry{
+display:flex;
+flex-direction:column;
+flex-wrap: wrap;
+flex-flow:column;
+}
+
+.JORIK{
+display:flex;
+justify-content: center;
+align-items: baseline;
+align-content: end;
+}
+
+.ZA{
+display:flex;
+}
+
+.iggy{
+flex-grow: 1;
+background-color: aquamarine;
+}
+
+.piggy{
+flex-shrink: 1;
+background-color: black;
+}
+
+.k{
+flex-basis: 0.5;
+color: brown;
+}
+
+.sherrif{
+flex-basis: 50%;
+background-color: rgb(255, 0, 0);
+}
+
+.shorif{
+flex-grow: 1;
+background-color: rgb(4, 0, 255);
+}
+
+.sidfg{
+flex-basis: 100px;
+background-color: rgb(208, 127, 255);
+}
+
+.yuy{
+display: flex;
+}
+
+.kekeshke{
+background-color: grey;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.carti{
+display:flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.oioio{
+height: 100px;
+background-color: blue;
+flex: 0.1 0 100px;
+}
+
+.popoio{
+height: 100px;
+background-color: red;
+flex: 0.2 0 101px;
+}
+
+.uiuiui{
+height: 100px;
+background-color: violet;
+flex: 0 0.3 99px;
+}
+
+.crimuh{
+height: 100px;
+background-color: rgb(255, 0, 0);
+flex: 0 0.5 98px;
+}
