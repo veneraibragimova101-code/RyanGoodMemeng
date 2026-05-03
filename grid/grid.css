@@ -1,0 +1,135 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+display: grid;
+grid-template-columns: 380px 380px 380px;
+gap: 20px;
+justify-content: center;
+}
+
+.card3{
+width: 380px;
+height: 582px;
+display: flex;
+flex-direction: column;
+background-color: #FFFFFF;
+}
+
+
+.skazka{
+margin: 50px 89px 12px 44px;
+width: 247px;
+height: 35px;
+color: #2E363E;
+font-size: 24px;
+font-weight: 700;
+}
+
+.opisaniye{
+margin: 0px 96px 24px 44px;
+width: 240px;
+height: 48px;
+color: #2E363E;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+}
+
+.dollar{
+width: 108px;
+height: 36px;
+font-size: 24px;
+font-weight: 500;
+line-height: 150%;
+margin: 0px 228px 14px 44px;
+color: #434B53;
+}
+
+.sasazat{
+width: 163px;
+height: 68px;
+background-color: #FED84C;
+color: #2E363E;
+margin: 0px 173px 50px 44px;
+border-radius: 8px;
+text-align: center;
+line-height: 68px;
+font-size: 18px;
+}
+
+.imagine{
+width: 380px;
+height: 245px;
+}
+
+.text{
+border: 1px solid #F2F6FA;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+width: 380px;
+}
+
+
+
+.card4{
+display: flex;
+width: 330px;
+height: 400px;
+background-color: #0C0B15;
+flex-direction: column;
+border-radius: 8px;
+}
+
+.imageses{
+display: flex;
+justify-content: space-between;
+}
+
+
+
+.about{
+color: #FFFFFF;
+width: 96px;
+height: 27px;
+margin: 0px 207.5px 24.37px 26.5px;
+font-size: 22px;
+line-height: 27px;
+font-weight: 600px;
+}
+
+.jason{
+color: #809FB8;
+width: 262px;
+height: 22px;
+font-size: 18px;
+font-weight: 600px;
+line-height: 22px;
+margin: 0px 41.5px 26.63px 26.5px;
+}
+
+.abouty{
+color: #809FB8;
+width: 260px;
+height: 147px;
+font-style: Proxima Nova;
+font-size: 16px;
+line-height: 21px;
+font-weight: 600px;
+margin: 0px 42.28px 53px 27.72px;
+}
+
+.imagineler2{
+margin: 23px 23px 71px 0px;
+}
+
+.imagineler{
+margin: 21.7px 0px 18.3px 27.21px;
+}
+
+.cards{
+display: flex;
+gap: 40px;
+align-items: end;
+}
