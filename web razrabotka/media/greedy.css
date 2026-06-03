@@ -1,0 +1,254 @@
+.list{
+display: none;
+}
+.bukvy{
+margin: 0px 58px 0px 497px;
+color: #2C2D35;
+width: 130px;
+height: 23px;
+font-size: 18.7px;
+}
+
+hr{
+display: none;
+}
+
+.nav{
+display: flex;
+}
+
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+display: flex;
+width: 1440px;
+height: 100px;
+background-color: #E1EDE6;
+align-items: center;
+}
+
+.inker{
+display: inline;
+color: #598D66;
+width: 540px;
+height: 132px;
+}
+
+.fff{
+color: #2C2D35;
+width: 84px;
+height: 23px;
+margin-right: 60px;
+font-size: 18.7px;
+}
+
+.info{
+width: 54px;
+height: 23px;
+color: #2C2D35;
+margin-right: 60px;
+font-size: 18.7px;
+}
+
+.gogoko{
+width: 540px;
+height: 54px;
+color: #86928B;
+line-height: 150%;
+font-size: 18px;
+font-weight: 500;
+margin: 0px 165px 60px 30px;
+}
+
+.main{
+display: flex;
+}
+
+.repliki{
+width: 540px;
+height: 132px;
+font-size: 60px;
+margin: 145px 165px 20px 30px;
+}
+
+.productionis{
+width: 227px;
+height: 65px;
+margin: 0px 0px 145px 30px;
+color: #598D66;
+border: 1px solid #598D66;
+gap: 10px;
+text-align: center;
+line-height: 65px;
+font-size: 20px;
+}
+
+.ksi{
+margin-left: 165px;
+}
+
+.kai{
+margin-left: 165px;
+}
+
+@media(max-width: 768px){
+.kai{
+width: 330px;
+height: 380px;
+margin-left: 32px;
+}
+.bukvy{
+margin: 0px 60px 0px 101px;
+width: 117px;
+height: 21px;
+font-size: 18.7px;
+}
+
+.ksi{
+margin-left: 39px;
+}
+
+.fff{
+width: 76px;
+height: 21px;
+margin-right: 60px;
+font-size: 18px;
+}
+
+.info{
+width: 49px;
+height: 21px;
+margin-right: 60px;
+font-size: 18px;
+}
+
+.gogoko{
+width: 330px;
+height: 108px;
+line-height: 150%;
+font-size: 18px;
+font-weight: 500;
+margin: 0px 39px 40px 30px;
+}
+.repliki{
+width: 320px;
+height: 80px;
+font-size: 40px;
+margin: 20px 39px 40px 30px;
+}
+.productionis{
+width: 210px;
+height: 60px;
+margin: 0px 0px 37px 30px;
+line-height: 65px;
+font-size: 20px;
+}
+}
+
+@media(max-width: 576px){
+.header{
+align-items: center;
+flex-direction: column;
+width: 576px;
+height: 123px;
+}
+hr{
+display: block;
+width: 510px;
+height: 1px;
+border: none;
+background-color: #C3D1C6;
+margin: 0px;
+padding: 0px;
+margin-bottom: 16px;
+}
+.ksi{
+margin-left: 0px;
+margin-top: 16px;
+margin-bottom: 16px;
+}
+.bukvy{
+margin-left: 0px;
+}
+.info{
+margin-right: 124px;
+}
+.kai{
+width: 195px;
+height: 239px;
+margin: 50px 33px 50px 30px;
+}
+.repliki{
+margin: 50px 33px 10px 0px;
+font-size: 36px;
+line-height: 100%;
+width: 285px;
+height: 72px;
+}
+
+.gogoko{
+margin: 10px 33px 11px 0px;
+width: 285px;
+height: 96px;
+font-size: 16px;
+}
+.productionis{
+margin: 11px 0px 0px 0px
+}
+}
+
+@media(max-width: 320px){
+hr{
+display:none;
+}
+.header{
+background-color: white;
+width: 320px;
+height: 130px;
+}
+.kai,.bukvy,.fff,.info{
+display: none;
+}
+.list{
+display: block;
+}
+.ksi{
+margin: auto;
+}
+.list{
+margin: 16px 236px 15px 15px
+}
+.nav{
+margin: 0px;
+width: 320px;
+height: 62px;
+background-color: #E1EDE6;
+}
+.repliki{
+margin: 60px 20px 20px 15px;
+width: 285px;
+height: 60px;
+font-size: 30px;
+}
+.gogoko{
+margin: 20px 15px 40px 15px;
+font-size: 14px;
+width: 290px;
+height: 63px;
+}
+.productionis{
+margin: 40px 151px 60px 15px;
+width: 154px;
+height: 50px;
+line-height: 50px;
+}
+.druski{
+margin: 20px 16px 20px 0px;
+width: 22px;
+height: 22px;
+}
+}
+
