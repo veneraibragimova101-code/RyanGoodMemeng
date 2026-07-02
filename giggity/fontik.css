@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap');
+
+
+.pot{
+  font-family: "Playwrite AU TAS", cursive;
+  font-optical-sizing: auto;
+}
+
+.cookie{
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face  {
+font-family: "pot";
+
+src:url(Oswald-Bold.ttf)
+}
